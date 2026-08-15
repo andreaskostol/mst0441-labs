@@ -5,7 +5,7 @@
 ## Opening a lab in Colab
 
 The labs live at **github.com/andreaskostol/mst0441-labs**. Click the lab's
-badge there (or the Colab link on It's Learning) and it opens in Colab
+badge there (or the Colab link on Canvas) and it opens in Colab
 directly -- nothing to download. The notebook opens **read-only**: choose
 **File -> Save a copy in Drive** first, and do the lab in your copy. If you
 reopen the original link later you get the latest version of the lab, not
