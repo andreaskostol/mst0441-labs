@@ -15,8 +15,8 @@ before you start, and work in your copy.
 | 12 | Static games, and an agent that solves them | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andreaskostol/mst0441-labs/blob/main/lab12_static_games.ipynb) |
 | 15 | Repeated games, collusion, and an agent as opponent | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andreaskostol/mst0441-labs/blob/main/lab15_repeated_games.ipynb) |
 
-The course tutor notebook from session 1 is here too:
-[tutor.ipynb](https://colab.research.google.com/github/andreaskostol/mst0441-labs/blob/main/tutor.ipynb).
+The course's AI tutor lives on [kojai.no](https://kojai.no/#/agents/mst0441-tutor) —
+sign-up instructions are on Canvas.
 
 ## Before session 2
 
